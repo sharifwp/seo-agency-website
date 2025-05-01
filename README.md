@@ -1,7 +1,3 @@
-# seo-agency-website
-
-Custom WordPress website designed and developed for a digital agency offering SEO, branding, and software solutions. Built with Elementor Pro, the site delivers a fast, responsive, and modern experience optimized for both user engagement and search engine visibility.
-
 ## Digital Agency Website – [Live Website](https://eastandwestagency.com/)
 
 ## Overview
